@@ -1,6 +1,6 @@
 :root {
   --accent: 30, 186, 225;
-  --bg: #121212;
+  --bg: #121211;
   --card: #121212;
   --text: #ffffff;
 }
@@ -74,7 +74,7 @@ input {
 button {
   padding: 12px 16px;
   border-radius: 10px;
-  border: 2px solid rgba(var(--accent), 0.6);
+  border: 2px solid rgba(var(--accent), 0.4);
   background: transparent;
   color: rgba(var(--accent), 1);
   cursor: pointer;
