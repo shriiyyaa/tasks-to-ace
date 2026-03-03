@@ -5,6 +5,7 @@
   --text: #ffffff;
 }
 
+
 body[data-theme="light"] {
   --bg: #f5f7ff;
   --card: #ffffff;
